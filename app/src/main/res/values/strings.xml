@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bishall</string>
+    <string-array name="country">
+        <item> INDIA</item>
+        <item> England</item>
+        <item> SRILANKA</item>
+        <item> Russia</item>
+    </string-array>
+</resources>
